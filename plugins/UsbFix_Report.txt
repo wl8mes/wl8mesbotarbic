@@ -1,0 +1,50 @@
+# ----------------------------------------------------
+# UsbFix Antivirus Free
+# ----------------------------------------------------
+# Version : 11.023
+# Base de données :  
+# Contact : https://www.usb-antivirus.com/fr/contact
+# ----------------------------------------------------
+# Type de scan : USB
+# Utilisateur : Mohamed (Administrateur)
+# Appareil : MOHAMED-PC
+# Lancé : 27/02/2024 02:04:55
+# ----------------------------------------------------
+
+------------ | Disques analysés |
+
+Aucun périphérique détecté pour ce type de scan.
+
+------------ | Elément(s) détecté(s) |
+
+~ Aucun élément détecté ~
+
+------------ | Run |
+
+F2 - HKLM\..\Winlogon : [Shell] explorer.exe
+F2 - HKLM\..\Winlogon : [Userinit] C:\Windows\system32\userinit.exe,
+04 - HKCU\..\Run : [PixelSee] C:\Users\Mohamed\PixelSee\pixelsee.exe --minimized
+04 - HKLM\..\Run : [QHSafeTray] "C:\Program Files\360\Total Security\safemon\QHSafeTray.exe" /start
+04 - HKU\S-1-5-19\..\Run : [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun
+04 - HKU\S-1-5-20\..\Run : [Sidebar] %ProgramFiles%\Windows Sidebar\Sidebar.exe /autoRun
+04 - HKU\S-1-5-21-1478139664-2101386841-2315144767-1000\..\Run : [PixelSee] C:\Users\Mohamed\PixelSee\pixelsee.exe --minimized
+04 - HKU\S-1-5-19\..\RunOnce : [mctadmin] C:\Windows\System32\mctadmin.exe
+04 - HKU\S-1-5-20\..\RunOnce : [mctadmin] C:\Windows\System32\mctadmin.exe
+04GS - Ralink Wireless Utility.lnk : C:\Program Files\Ralink\Common\RaUI.exe
+
+------------ | Tasks |
+
+Task - Adobe Acrobat Update Task --> C:\Program Files\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+Task - GoogleUpdateTaskMachineCore --> "C:\Program Files\Google\Update\GoogleUpdate.exe" /c
+Task - GoogleUpdateTaskMachineUA --> "C:\Program Files\Google\Update\GoogleUpdate.exe" /ua /installsource scheduler
+Task - {DAD8E3B6-D7AE-44D9-BE7F-0F94407CF8D2} --> C:\Windows\system32\pcalua.exe -a C:\Users\Mohamed\Downloads\MEmu-setup-abroad-sdk-mv.exe -d C:\Users\Mohamed\Downloads
+
+------------ | Dev Zone |
+
+
+Elément(s) détecté(s) : 0
+Elément(s) analysé(s) : 21023 en 00h 00m 05s
+
+# UsbFix-Report-01.txt [2120B]
+
+------------ | E.O.F  |
